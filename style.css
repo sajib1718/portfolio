@@ -16,13 +16,13 @@ section {
     display: flex;
 }
 
-.s {
+.half-width {
     width: 50%;
     padding: 5%;
 
 }
 
-.s img {
+.half-width img {
     width: 80%;
 }
 
