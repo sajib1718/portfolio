@@ -8,7 +8,7 @@ h1 {
     font-size: 50px;
 }
 
-.nm {
+.name-title {
     color: rgb(11, 184, 98);
 }
 
@@ -38,5 +38,39 @@ section {
 .top-banner {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+
+}
+
+#career {
+    color: blue;
+}
+
+.goal {
+    background-image: url(dream-bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
+
+
+}
+
+.exp {
+    background-image: url(exp-bg.png);
+    background-position: left;
+    background-repeat: no-repeat;
+
+
+}
+
+.duration {
+
+    color: orange;
+}
+
+.width {
+
+    padding: 10%;
+    width: 50%;
+    border-left: blue;
+    border-color: brown;
 
 }
